@@ -21,6 +21,7 @@ The project demonstrates **systems programming principles**, **thread safety**, 
 ---
 
 ## Project Structure
+```text
 order-matching-engine/
 ├── src/
 │ ├── main.cpp # Interactive order entry & program entry point
@@ -33,6 +34,7 @@ order-matching-engine/
 │ ├── test_case3.cpp # Partial fill scenario
 │ ├── run_all_tests.sh # Script to build & run all tests
 └── README.md
+```
 
 ## Build
 ```bash
